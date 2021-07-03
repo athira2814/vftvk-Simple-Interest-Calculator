@@ -22,14 +22,9 @@ h1{
 {
     background-color: #ffff00;
 }
-#principal{
-    height: 25px;
-    width: 190px;
-}
 
 #years{
-    height: 35px;
-    width: 200px;
+    margin-top: 10px;
 }
 
 #footer
@@ -41,19 +36,17 @@ h1{
 {
     width: 120px;
 }
-#result {
-    margin-top: 60px;
-
+#rate {
+    margin-top: 10px;
 }
 .contents
 {
     margin-left: 60px;
 }
 #compute {
-    margin-bottom: 10px;
+    margin-top: 10px;
 }
 .foot  {
     margin-top: 10px;
-    margin-left: 60px;
 
 } 
